@@ -1,0 +1,13 @@
+c:\users\detsuu\documents\visual studio 2015\Projects\Lotto\Lotto\bin\Debug\Lotto.exe.config
+c:\users\detsuu\documents\visual studio 2015\Projects\Lotto\Lotto\bin\Debug\Lotto.exe
+c:\users\detsuu\documents\visual studio 2015\Projects\Lotto\Lotto\bin\Debug\Lotto.pdb
+c:\users\detsuu\documents\visual studio 2015\Projects\Lotto\Lotto\obj\Debug\Lotto.csprojResolveAssemblyReference.cache
+c:\users\detsuu\documents\visual studio 2015\Projects\Lotto\Lotto\obj\Debug\Lotto.Form1.resources
+c:\users\detsuu\documents\visual studio 2015\Projects\Lotto\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+c:\users\detsuu\documents\visual studio 2015\Projects\Lotto\Lotto\obj\Debug\Lotto.csproj.GenerateResource.Cache
+c:\users\detsuu\documents\visual studio 2015\Projects\Lotto\Lotto\obj\Debug\Lotto.exe
+c:\users\detsuu\documents\visual studio 2015\Projects\Lotto\Lotto\obj\Debug\Lotto.pdb
+C:\Users\DeTsuu\documents\visual studio 2015\Projects\Lotto\Lotto\bin\Debug\Lotto.exe.manifest
+C:\Users\DeTsuu\documents\visual studio 2015\Projects\Lotto\Lotto\bin\Debug\Lotto.application
+C:\Users\DeTsuu\documents\visual studio 2015\Projects\Lotto\Lotto\obj\Debug\Lotto.exe.manifest
+C:\Users\DeTsuu\documents\visual studio 2015\Projects\Lotto\Lotto\obj\Debug\Lotto.application
